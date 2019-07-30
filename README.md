@@ -14,6 +14,15 @@ https://www.kaggle.com/rajwardhanshinde/stackers-blend-top-4
 
 relevent pdf
 
+https://arxiv.org/pdf/1905.06247.pdf (Multiple perspectives HMM-based feature engineering for credit
+card fraud detection)
+
+https://arxiv.org/pdf/1904.10604.pdf (A Comparison Study of Credit Card Fraud Detection:
+Supervised versus Unsupervised)
+
+
+https://arxiv.org/ftp/arxiv/papers/1903/1903.00410.pdf (Improving fraud prediction with incremental data balancing technique for massive data streams)
+
 https://arxiv.org/pdf/1906.06977.pdf  (Dataset shift quantification for credit card fraud detection)
 
 https://arxiv.org/pdf/1907.07212.pdf )(Helen)
