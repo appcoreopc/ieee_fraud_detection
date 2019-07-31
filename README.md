@@ -21,6 +21,12 @@ TalkingData AdTracking Fraud Detection Challenge (https://www.kaggle.com/c/talki
 -Negative down sample
 
 -LDA/NMF/LSA
+
+five raw categorical features (ip, os, app, channel, device) 
+time categorical features (day, hour) 
+some count features 
+
+
  
 
 
