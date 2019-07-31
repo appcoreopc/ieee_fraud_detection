@@ -6,11 +6,32 @@ https://www.kaggle.com/kernels/scriptcontent/17693707/download
 
 https://www.kaggle.com/rajwardhanshinde/stackers-blend-top-4
 
-
-
 0.94. https://www.kaggle.com/vincentlugat/ieee-lgb-bayesian-opt
 0.93  https://www.kaggle.com/kabure/extensive-eda-and-modeling-xgb-hyperopt
 
+
+
+Past competitions
+
+TalkingData AdTracking Fraud Detection Challenge (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview)
+1st place  (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56475#latest-436248)
+2nd place (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56328#latest-331897)
+3rd place (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56262#latest-517655)
+6th solution (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56283#latest-408114)
+
+
+Home Credit Default Risk (this is about risk, but might be useful)
+1st place solution (https://www.kaggle.com/c/home-credit-default-risk/discussion/64821#latest-453304)
+2nd place (https://www.kaggle.com/c/home-credit-default-risk/discussion/64722#latest-394948)
+3rd place (https://www.kaggle.com/c/home-credit-default-risk/discussion/64596#latest-420333)
+
+
+Elo Merchant Category Recommendation (https://www.kaggle.com/c/elo-merchant-category-recommendation)
+
+Santander Customer Transaction Prediction https://www.kaggle.com/c/santander-customer-transaction-prediction
+
+Credit Card Fraud Detection (https://www.kaggle.com/mlg-ulb/creditcardfraud) 
+Synthetic Financial Datasets For Fraud Detection (https://www.kaggle.com/ntnu-testimon/paysim1)
 
 relevent pdf
 
