@@ -10,6 +10,9 @@ https://www.kaggle.com/rajwardhanshinde/stackers-blend-top-4
 0.93  https://www.kaggle.com/kabure/extensive-eda-and-modeling-xgb-hyperopt
 
 
+Stacknet
+https://www.kaggle.com/kepung/ieee-fraud-stacknet-on-gpu-lgb-xgb-cb/edit
+
 
 Past competitions
 
