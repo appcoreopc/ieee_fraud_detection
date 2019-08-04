@@ -18,7 +18,6 @@ Past competitions
 
 TalkingData AdTracking Fraud Detection Challenge (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview)
 
-
 1st place  (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56475#latest-436248)
 
 -Negative down sample
@@ -31,8 +30,6 @@ some count features
 
 
  
-
-
 2nd place (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56328#latest-331897)
 
 3rd place (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56262#latest-517655)
