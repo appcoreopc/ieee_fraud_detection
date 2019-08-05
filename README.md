@@ -66,7 +66,6 @@ https://arxiv.org/ftp/arxiv/papers/1903/1903.00410.pdf (Improving fraud predicti
 https://arxiv.org/pdf/1901.08930 Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability
 
 
-
 https://arxiv.org/pdf/1906.06977.pdf  (Dataset shift quantification for credit card fraud detection)
 
 https://arxiv.org/pdf/1907.07212.pdf )(Helen)
