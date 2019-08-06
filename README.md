@@ -79,15 +79,20 @@ in Ant Financial)
 Question about lightgbm 
 
 It is a black box model and its executions is learning features as 'greedy' as possible. 
+ 
  > How do you tell it, hey don't look at this, but look at this? 
+ 
+ You can't
+ 
  > How do you say, if this is device info is different, then the weight is obviously higher. 
  
+ Give it a weight? 
  
- Which leads us to some basic questions 
+ lightgbm only works with data, if it is in string, then encode it. 
  
- - How do you even know that lightgbm actually works
- 
- 
+
+https://people.eecs.berkeley.edu/~raluca/Thesis.pdf
+
 
 
 
