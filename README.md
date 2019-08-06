@@ -93,6 +93,8 @@ It is a black box model and its executions is learning features as 'greedy' as p
 
 https://people.eecs.berkeley.edu/~raluca/Thesis.pdf
 
+https://crypto.stackexchange.com/questions/46736/how-to-prove-correct-decryption-in-paillier-cryptosystem
+
 
 
 
