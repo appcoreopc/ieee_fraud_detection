@@ -36,7 +36,6 @@ some count features
 
 3rd place (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56262#latest-517655)
 
-
 6th solution (https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56283#latest-408114)
 
 
@@ -106,4 +105,6 @@ RLWE
 
 
 
+
+https://people.eecs.berkeley.edu/~svlevine/
 
