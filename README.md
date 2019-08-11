@@ -48,6 +48,11 @@ Elo Merchant Category Recommendation (https://www.kaggle.com/c/elo-merchant-cate
 
 Santander Customer Transaction Prediction https://www.kaggle.com/c/santander-customer-transaction-prediction
 
+
+Lightgbm examples 
+
+https://github.com/microsoft/LightGBM/tree/master/examples
+
 Credit Card Fraud Detection (https://www.kaggle.com/mlg-ulb/creditcardfraud) 
 Synthetic Financial Datasets For Fraud Detection (https://www.kaggle.com/ntnu-testimon/paysim1)
 
