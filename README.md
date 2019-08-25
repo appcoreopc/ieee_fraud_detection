@@ -118,6 +118,16 @@ cols_to_drop=['V300','V309','V111','C3','V124','V106','V125','V315','V134','V102
 
 
 Project Echo
-
-
 https://echo-ai.readthedocs.io/en/latest/
+
+
+Gradient Boosting Machine: A Survey
+https://arxiv.org/pdf/1908.06951.pdf (MIT) 
+
+Gradient boost for financial scoring
+https://arxiv.org/pdf/1908.03385.pdf
+
+
+
+
+
